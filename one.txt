@@ -1,5 +1,2 @@
 first commit 1
 
-
-data added successfully.
-
