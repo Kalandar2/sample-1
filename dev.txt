@@ -1,7 +1,5 @@
 Dev file Created
-
 adding 2nd data to this file
-
 adding 3rd data to this file.
 4t line added to this file
 5th line 
